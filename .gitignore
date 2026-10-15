@@ -1,0 +1,13 @@
+build/
+install/
+log/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+carla_env/
+*.egg-info/
+.vscode/
+.idea/
+.DS_Store
